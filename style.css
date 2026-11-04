@@ -627,3 +627,14 @@ button:focus-visible {
     animation-duration: .01ms !important;
   }
 }
+/* Profile Photo */
+.hero-profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #087f8c;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.12);
+  margin: 10px 0 22px;
+  display: block;
+}
